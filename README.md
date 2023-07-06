@@ -2,6 +2,9 @@
 
 A new Flutter project.
 
+Go to lib/main.dart file and then enter your siteID & secretKey inside ShieldConfig.
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
